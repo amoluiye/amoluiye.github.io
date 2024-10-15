@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://amoluiye.github.io/MgU/sitemap_index.txt.gz
+Sitemap: https://amoluiye.github.io/OKJ/sitemap_index.txt.gz
+Sitemap: https://amoluiye.github.io/SFs/sitemap_index.txt.gz
+Sitemap: https://amoluiye.github.io/ecA/sitemap_index.txt.gz
+Sitemap: https://amoluiye.github.io/rvk/sitemap_index.txt.gz
+Sitemap: https://amoluiye.github.io/sitemap/sitemap_index.txt.gz
